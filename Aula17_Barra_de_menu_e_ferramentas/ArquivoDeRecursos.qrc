@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/trash_bin_icon-icons.com_67981.png</file>
+        <file>icons/search_magnifyng_glass_search_locate_icon_124190.png</file>
+        <file>icons/file_new_icon_153413.png</file>
+        <file>icons/editar.png</file>
+        <file>icons/1904659-arrow-backup-down-download-save-storage-transfer_122509.png</file>
+    </qresource>
+</RCC>

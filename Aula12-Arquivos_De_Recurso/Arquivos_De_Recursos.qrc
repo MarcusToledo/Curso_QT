@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/parrot-glitch.jpg</file>
+        <file>imgs/toxic.jpg</file>
+    </qresource>
+</RCC>
